@@ -23,9 +23,9 @@ tagline: vitam impendere vero
 location: Versailles
 date: true
 baseurl: "/marat" # the subpath of your site, e.g. /blog
-url: "http://johncoene.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-author: Jean-Paul Marat
-google_analytics: UA-101394056-1
+url: "http://watanka.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+author: watanka
+google_analytics: 
 
 # SEO
 twitter:
@@ -36,7 +36,7 @@ logo: /assets/logo.png
 lang: fr
 
 facebook:
- app_id: 101766790448070
+ app_id: eunsung.shin@gmail.com
 
 social:
   name: John Coene
